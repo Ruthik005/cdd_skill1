@@ -1,1 +1,3 @@
 # cdd_skill1
+password token
+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
